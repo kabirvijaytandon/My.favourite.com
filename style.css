@@ -1,0 +1,42 @@
+#img {
+    border-radius: 50%;
+}
+
+body {
+    text-align: center;
+}
+
+#welcome {
+    background-color: orange;
+}
+
+h1 {
+    font-variant: small-caps;
+    font-size: 30px;
+}
+
+#bio {
+    width: 1300px;
+    height: auto;
+    font-style: italic;
+    font-size: 20px;
+    z-index: 20px
+}
+
+.menu {
+    list-style: none;
+    font-family: sans-serif;
+    float: left;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+}
+
+.link {
+    padding-top: 9px;
+    padding-bottom: 9px;
+    padding-left: 10px;
+    padding-right: 10px;
+    z-index: 20px
+}
